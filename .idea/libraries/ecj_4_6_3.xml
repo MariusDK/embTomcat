@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ecj-4.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/apache-tomcat/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-core.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-el.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-jasper.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-websocket.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

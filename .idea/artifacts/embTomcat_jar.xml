@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="embTomcat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/embTomcat_jar</output-path>
+    <root id="archive" name="embTomcat.jar">
+      <element id="module-output" name="embTomcat" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat/lib/ecj-4.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat/lib/tomcat-dbcp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-el.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-jasper.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/tomcat-embedded/tomcat-embed-websocket.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
